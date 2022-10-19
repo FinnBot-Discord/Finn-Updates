@@ -4,6 +4,7 @@
 - Currently this repository is empty, save for this README, This is because I like to push update notes before they go live, so please stay patient while this is happening :)
 - If you would like to learn more about myself or Real, you can at these links:
 [Myself](snoopee110.carrd.co) 
+
 [Real](realbot.carrd.co)
 
 Thank you for taking the time to take a look through the repository!
