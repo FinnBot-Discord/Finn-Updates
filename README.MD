@@ -5,11 +5,11 @@
 
 ## Version Numbering
 - Version numbering is based on a major, minor, bugfix system. so V3.1.6 would be Major version 3, Minor revision 1, Bugfix patch 6.
-[Current Version (V4.1.0)](https://github.com/FinnBot-Discord/Finn-Updates/blob/main/versions/V4.1.0.md)
+[Current Version (V5.0.0)](https://github.com/FinnBot-Discord/Finn-Updates/blob/main/versions/V5.0.0.md)
 
 ## About Me and Finn
 - If you would like to learn more about myself or Finn, you can at these links:
 [Snoopee](www.snoopee.co.uk) 
-[Finn](finnbot.carrd.co)
+[Finn](realbot.carrd.co)
 
 Thank you for taking the time to take a look through the repository!
